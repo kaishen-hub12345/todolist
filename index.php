@@ -71,22 +71,22 @@
         </div>
         <div class="link-grid">
             <div class="link-card">
-                <a href="todolist.php">To-Do List</a>
+                <a href="todolist.php" target="_blank">To-Do List</a>
             </div>
             <div class="link-card">
-                <a href="gallery.php">Photo Gallery</a>
+                <a href="gallery.php" target="_blank">Photo Gallery</a>
             </div>
             <div class="link-card">
-                <a href="pokemon.php">Pokemon</a>
+                <a href="pokemon.php" target="_blank">Pokemon</a>
             </div>
             <div class="link-card">
-                <a href="weather.php">Weather</a>
+                <a href="weather.php" target="_blank">Weather</a>
             </div>
             <div class="link-card">
-                <a href="online_chat.php">Online Chat</a>
+                <a href="online_chat.php" target="_blank">Online Chat</a>
             </div>
             <div class="link-card">
-                <a href="blob.php">Blob</a>
+                <a href="blob.php" target="_blank">Blob</a>
             </div>
         </div>
     </div>
